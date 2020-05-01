@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uygulama 4</title>
+</head>
+
+<body>
+    <h1>Lütfen Formu Eksiksiz Doldurunuz</h1>
+    <hr>
+    <h4>Hesap Bilgileriniz </h4>
+
+    <form action="/home/register">
+        <p>
+            Kullanıcı Adı: <input type="text" placeholder="Adınızı giriniz" required name="Ad">
+        </p>
+
+        <p>
+            Eposta: <input type="email" placeholder="Mailinizi giriniz" required name="Mail">
+        </p>
+        <p>
+            Parola: <input type="password" placeholder="parolanızı giriniz" required name="şifre">
+        </p>
+
+
+    </form>
+
+    <h4>Kişisel Bilgileriniz</h4>
+    <form action="/home/register">
+        <p>
+            Adınızı giriniz <input type="text" required placeholder="Adınızı giriniz">
+
+        </p>
+        <p>
+            Soyadınızı giriniz <input type="text">
+        </p>
+        <br>
+        Şehir :
+        <Select>
+
+            <option>
+                Seçiniz
+            </option>
+            : <option>
+                istanbul
+            </option>
+            <option>
+                izmir
+            </option>
+            <option>
+                ankara
+            </option>
+
+        </Select>
+
+        <p>
+            Cinsiyetiniz :
+            Erkek <input type="radio" name="Cinsiyet" required>
+            Kadın <input type="radio" name="Cinsiyet" required>
+        </p>
+        <p>
+            Hobileriniz:
+            Sinema <input type="checkbox" name="Hobi ">
+            Gezmek <input type="checkbox" name="Hobi ">
+            Kitap <input type="checkbox" name="Hobi ">
+            Oyun <input type="checkbox" name="Hobi ">
+        </p>
+
+
+        <input type="Submit" value="Kaydet">
+
+    </form>
+
+</body>
+
+</html>
