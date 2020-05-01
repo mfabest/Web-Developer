@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Linkler</title>
+</head>
+
+<body>
+
+    <a href="Images.html" target="_blank"id ="images">İmages</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea facere maiores modi accusamus corporis error cumque
+        facilis aspernatur, aperiam quis nihil assumenda? Vel velit commodi aspernatur a ab voluptatum impedit.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quisquam, vel soluta quo asperiores ipsam
+        ipsum nam earum in libero assumenda accusantium quis, consequuntur magni dicta nesciunt optio provident beatae.
+    </p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, voluptates molestiae minus obcaecati ducimus
+        eaque maxime labore veritatis, porro dolores ipsum rem suscipit illum aliquam commodi exercitationem asperiores
+        doloribus dignissimos.
+
+    </p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, aut beatae temporibus omnis nobis error inventore quos
+    voluptatibus nemo ad consequatur quas voluptatum tempora ut quis modi accusamus iure similique?
+
+
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p><p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia animi accusamus delectus ullam suscipit
+        molestias debitis, facere assumenda nulla magnam cupiditate, ipsum, eaque nam similique iste? Animi quasi sit
+        quibusdam!
+
+    </p>
+    <a href="#images">Sayfa Başına dön</a>
+
+
+</body>
+
+</html>
